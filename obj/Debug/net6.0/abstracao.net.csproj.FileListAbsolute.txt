@@ -1,0 +1,15 @@
+C:\Users\Eduardo\Desktop\esof\abstracao.net\bin\Debug\net6.0\abstracao.net.exe
+C:\Users\Eduardo\Desktop\esof\abstracao.net\bin\Debug\net6.0\abstracao.net.deps.json
+C:\Users\Eduardo\Desktop\esof\abstracao.net\bin\Debug\net6.0\abstracao.net.runtimeconfig.json
+C:\Users\Eduardo\Desktop\esof\abstracao.net\bin\Debug\net6.0\abstracao.net.dll
+C:\Users\Eduardo\Desktop\esof\abstracao.net\bin\Debug\net6.0\abstracao.net.pdb
+C:\Users\Eduardo\Desktop\esof\abstracao.net\obj\Debug\net6.0\abstracao.net.csproj.AssemblyReference.cache
+C:\Users\Eduardo\Desktop\esof\abstracao.net\obj\Debug\net6.0\abstracao.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eduardo\Desktop\esof\abstracao.net\obj\Debug\net6.0\abstracao.net.AssemblyInfoInputs.cache
+C:\Users\Eduardo\Desktop\esof\abstracao.net\obj\Debug\net6.0\abstracao.net.AssemblyInfo.cs
+C:\Users\Eduardo\Desktop\esof\abstracao.net\obj\Debug\net6.0\abstracao.net.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\Desktop\esof\abstracao.net\obj\Debug\net6.0\abstracao.net.dll
+C:\Users\Eduardo\Desktop\esof\abstracao.net\obj\Debug\net6.0\refint\abstracao.net.dll
+C:\Users\Eduardo\Desktop\esof\abstracao.net\obj\Debug\net6.0\abstracao.net.pdb
+C:\Users\Eduardo\Desktop\esof\abstracao.net\obj\Debug\net6.0\abstracao.net.genruntimeconfig.cache
+C:\Users\Eduardo\Desktop\esof\abstracao.net\obj\Debug\net6.0\ref\abstracao.net.dll
