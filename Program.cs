@@ -11,3 +11,9 @@ p1.Nome = "edu";
 p1.Idade = 30;
 
 p1.Apresenta();
+
+
+
+Corrente cor = new Corrente();
+cor.Creditar(1200);
+cor.ExibirSaldo();
